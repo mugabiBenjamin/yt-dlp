@@ -10,3 +10,4 @@ wheels/
 .venv
 
 videos
+*repomix-output.xml
